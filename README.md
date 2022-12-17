@@ -1,4 +1,7 @@
-### Olá, Eu sou Wagner Inacio 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wagner+Inacio;I'm+32+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 - 🔭 Hoje estou trabalhando com analise de dados (SQL, Qlik Sense, Python e React)
 - 🌱 Estudando front-end e back-end
