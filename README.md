@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a48&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wagner+Inacio;I'm+32+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-- 🔭 Hoje estou trabalhando com analise de dados (SQL, Qlik Sense, Python e React)
-- 🌱 Estudando front-end e back-end
+
 
 <div align="center">
   <a href="https://github.com/WagnerInacio">
@@ -24,6 +23,7 @@
 
 ##
 
+  
 <div> 
   <a href="https://instagram.com/wagner_inacio._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wagner.inacio.silva@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
