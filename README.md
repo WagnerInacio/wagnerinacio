@@ -5,7 +5,6 @@
 
 - 🔭 Hoje estou trabalhando com analise de dados (SQL, Qlik Sense, Python e React)
 - 🌱 Estudando front-end e back-end
-- 📫 Contate-me no email: wagner.inacio.silva@outlook.com
 
 <div align="center">
   <a href="https://github.com/WagnerInacio">
