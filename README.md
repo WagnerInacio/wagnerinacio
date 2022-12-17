@@ -33,4 +33,10 @@
  
   ![Snake animation](https://github.com/WagnerInacio/wagnerinacio/blob/output/github-contribution-grid-snake.svg)
  
+  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{WagnerInacio}/count.svg" /></p> 
+<br>
+</div>
 </div>
