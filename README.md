@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a48&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Wagner+Inacio;I'm+33+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a48&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;My+Name+is+Wagner+Inacio)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 
   ### Main Skills:
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Wagner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wagner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wagner-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,8 +24,14 @@
 </div>
 
   ##
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WagnerInacio&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WagnerInacio&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
   
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/wagner_inacio._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wagner.inacio.silva@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href = "mailto:wagnerejaque1823@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
