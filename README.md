@@ -24,9 +24,9 @@
 </div>
 
   ##
-<!--
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WagnerInacio&bg_color=0d1117&color=0000ff&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  !-->
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WagnerInacio&bg_color=0d1117&color=0000ff&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/WagnerInacio/github-readme-activity-graph)
+  
 <div> 
   <a href="https://instagram.com/wagner_inacio._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wagner.inacio.silva@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
