@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a48&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;My+Name+is+Wagner+Inacio)](https://git.io/typing-svg)
 
-
 <div align="center">
   <a href="https://github.com/WagnerInacio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WagnerInacio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerInacio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e3c8437e-7c16-4739-a2eb-832a31d4d186/deploy-status)](https://app.netlify.com/sites/flourishing-cuchufli-b12620/deploys)
   ### Main Skills:
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Wagner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
