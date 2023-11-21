@@ -10,8 +10,8 @@
 
   ### Main Skills:
 <div style="display: inline_block" align="center"><br>
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,python,cs,aws" />
-  <img align="center" src="https://skillicons.dev/icons?i=git,linux,mysql" />
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet" />
+  <img align="center" src="https://skillicons.dev/icons?i=git,linux,mysql,aws" />
 </div>
 
   ##
